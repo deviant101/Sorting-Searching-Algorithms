@@ -1,0 +1,5 @@
+# Ignore Windows executable files (.exe)
+*.exe
+
+# Ignore Object file
+test
