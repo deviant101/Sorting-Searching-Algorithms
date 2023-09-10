@@ -4,5 +4,5 @@
 # Ignore Object file
 test
 
-# Ignore .vscode dir
+# Ignore .vscode directory
 .vscode
